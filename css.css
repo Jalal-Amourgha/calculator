@@ -34,11 +34,11 @@ body {
 
 .screen {
     width: 30%;
-    height: 50px;
+    height: 10vh;
     color: white;
     background: none;
     padding-left: 35px;
-    font-size: 20px;
+    font-size: 25px;
     cursor: text;
     border-top: 1px solid white;
     border-right: 1px solid white;
